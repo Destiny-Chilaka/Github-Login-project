@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #03091c;
+    color: #fff;
+}
+
+label{
+    
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* submit button */
+.submit{
+background-color: #427c19 !important;
+border: 1px solid #427c19;
+padding: 5px;
+width: 100%;
+}
+
+.submit:hover{
+    background-color: #5f9a05 !important;
+    border: 1px solid lightgreen;
+}
+
+.submit:active{
+    border: #5f9a05 !important;
+}
+
+
+.square{
+    margin-top: 12rem;
+}
+
+.signup{
+color: #444;
+}
+
